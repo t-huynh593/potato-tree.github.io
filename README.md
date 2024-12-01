@@ -1,2 +1,3 @@
-# potato-tree.github.io
-My portfolio
+# Terence Huynh's Portfolio
+
+Hi, I'm Terence. Thank you for visiting my Github page.
